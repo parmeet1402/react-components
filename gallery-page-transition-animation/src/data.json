@@ -1,0 +1,213 @@
+{
+  "images": [
+    {
+      "name": "India Gate",
+      "location": "New Delhi",
+      "variant": "normal",
+      "creator": {
+        "name": "Ravi Sharma",
+        "avatar": "https://images.unsplash.com/profile-1517619081624-eefbb888a5fc"
+      }
+    },
+    {
+      "name": "Jaipur",
+      "location": "Rajasthan",
+      "variant": "tall",
+      "creator": {
+        "name": "Mohd Aram",
+        "avatar": "https://images.unsplash.com/profile-1575264175033-c633e4eb7737image"
+      }
+    },
+    {
+      "name": "The Taj Mahal",
+      "location": "Agra",
+      "variant": "big",
+      "creator": {
+        "name": "Subhadeep Dishant",
+        "avatar": "https://images.unsplash.com/profile-1594356649132-6a669c46e0c4image"
+      }
+    },
+    {
+      "name": "Pamban Bridge",
+      "location": "Tamil Nadu",
+      "variant": "normal",
+      "creator": {
+        "name": "Subhadeep Dishant",
+        "avatar": "https://images.unsplash.com/profile-1594356649132-6a669c46e0c4image"
+      }
+    },
+    {
+      "name": "Har Ki Dun",
+      "location": "Uttrakhand",
+      "variant": "normal",
+      "creator": {
+        "name": "Vivek Sharma",
+        "avatar": "https://images.unsplash.com/profile-fb-1535277360-fb6fc849bdd5.jpg"
+      }
+    },
+    {
+      "name": "Patnem Beach",
+      "location": "Goa",
+      "variant": "tall",
+      "creator": {
+        "name": "Kushal Ghosh",
+        "avatar": ""
+      }
+    },
+    {
+      "name": "Tsomgo Lake",
+      "location": "Sikkim",
+      "variant": "normal",
+      "creator": {
+        "name": "Sahil Pandita",
+        "avatar": "https://images.unsplash.com/profile-1584461878683-942172e81867image"
+      }
+    },
+    {
+      "name": "Pangong Lake",
+      "location": "Leh",
+      "variant": "tall",
+      "creator": {
+        "name": "Fahrul Azmi",
+        "avatar": "https://images.unsplash.com/profile-1532751674029-c6a66bebb583"
+      }
+    },
+
+    {
+      "name": "The Golden Temple",
+      "location": "Punjab",
+      "variant": "normal",
+      "creator": {
+        "name": "Raghu Nayyar",
+        "avatar": "https://images.unsplash.com/profile-1495391929558-64f9b42830c9"
+      }
+    },
+    {
+      "name": "Similipal",
+      "location": "Odisha",
+      "variant": "normal",
+      "creator": {
+        "name": "Subhadeep Dishant",
+        "avatar": "https://images.unsplash.com/profile-1594356649132-6a669c46e0c4image"
+      }
+    },
+
+    {
+      "name": "Nanital",
+      "location": "Uttrakhand",
+      "variant": "tall",
+      "creator": {
+        "name": "Aman Upadhyay",
+        "avatar": "https://images.unsplash.com/profile-1551636496693-2fc228d245f9"
+      }
+    },
+
+    {
+      "name": "Indus River",
+      "location": "Leh",
+      "variant": "normal",
+      "creator": {
+        "name": "Subhadeep Dishant",
+        "avatar": "https://images.unsplash.com/profile-1594356649132-6a669c46e0c4image"
+      }
+    },
+
+    {
+      "name": "Maijana Bill",
+      "location": "Assam",
+      "variant": "normal",
+      "creator": {
+        "name": "Kushal Medhi",
+        "avatar": "https://images.unsplash.com/profile-1550127750814-4a641d167a11"
+      }
+    },
+    {
+      "name": "The Big Ben",
+      "location": "Kolkata",
+      "variant": "tall",
+      "creator": {
+        "name": "Subhadip Kanjilal",
+        "avatar": "https://images.unsplash.com/profile-1588135077488-5837cf8f0447image"
+      }
+    },
+
+    {
+      "name": "Kerala",
+      "location": "India",
+      "variant": "normal",
+      "creator": {
+        "name": "Sreehari Devadas",
+        "avatar": "https://images.unsplash.com/profile-1580198854062-3ed90ad4aea0image"
+      }
+    },
+
+    {
+      "name": "Munroe Island",
+      "location": "Kerala",
+      "variant": "normal",
+      "creator": {
+        "name": "Ajmal MK",
+        "avatar": "https://images.unsplash.com/profile-1605794301674-4275f8824010image"
+      }
+    },
+
+    {
+      "name": "Jaisalmer",
+      "location": "Rajasthan",
+      "variant": "tall",
+      "creator": {
+        "name": "Gaurav Sehara",
+        "avatar": "https://images.unsplash.com/profile-1584536097706-317cd481a0dfimage"
+      }
+    },
+
+    {
+      "name": "Kapu",
+      "location": "Karnataka",
+      "variant": "big",
+      "creator": {
+        "name": "Ahmed Nishaath",
+        "avatar": "https://images.unsplash.com/profile-1545127047661-5c96c38d5381"
+      }
+    },
+
+    {
+      "name": "Kashmir",
+      "location": "India",
+      "variant": "normal",
+      "creator": {
+        "name": "Sumat",
+        "avatar": "https://images.unsplash.com/profile-1590686732404-3eb667b2115bimage"
+      }
+    },
+
+    {
+      "name": "Dal Lake",
+      "location": "Srinagar",
+      "variant": "tall",
+      "creator": {
+        "name": "Sumat",
+        "avatar": "https://images.unsplash.com/profile-1590686732404-3eb667b2115bimage"
+      }
+    },
+
+    {
+      "name": "Charminar",
+      "location": "Hyderabad",
+      "variant": "normal",
+      "creator": {
+        "name": "Shubham Rath",
+        "avatar": "https://images.unsplash.com/profile-fb-1551687901-dfd542dd1a9e.jpg"
+      }
+    },
+    {
+      "name": "Gwalior",
+      "location": "Madhya Pradesh",
+      "variant": "tall",
+      "creator": {
+        "name": "Yash Kiran",
+        "avatar": "https://images.unsplash.com/profile-1608181254285-be58f09c5fb6image"
+      }
+    }
+  ]
+}
